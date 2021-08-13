@@ -1,5 +1,5 @@
 import './App.css';
-import SassComponent from "./SassComponent";
+import SassComponent from './SassComponent';
 
 function App() {
   return (
